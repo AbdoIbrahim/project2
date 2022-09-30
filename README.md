@@ -43,7 +43,9 @@ For the base Logistic Regression model there was a higher reduction in Type 2 Er
 
 ![download](https://user-images.githubusercontent.com/4527669/192002226-9d70f034-8156-45ae-ae9e-ea735eebcb57.png)
 
-
+## Insights:
+The Dataset showed a higher occurence of Heart Disease in women in specfic age ranges. In the Lineplot below we can see that women in their 40s were morelikely to have heart disease than their male counterparts. In the Age Range of 70 Women had a higher occurence of Heart Disease in comparsion to their male counterparts. This is unexpected because Heart Disease traditionally occurs in males at a higher rate in comparsion to females. 
+![download-1](https://user-images.githubusercontent.com/4527669/193187071-14996417-0d1d-48d3-8027-da4f7d9a9931.png)
 
 ### Recommendations:
 My Recommendation is that we use the Base Logistic Regreession model to diagnose Heart Disease 
