@@ -54,7 +54,7 @@ The Dataset showed a higher occurence of Heart Disease in women in specfic age r
 
 
 ### Recommendations:
-My Recommendation is that we use the Base Logistic Regreession model to diagnose Heart Disease 
+My Recommendation is that we use the Base Logistic Regression model to diagnose Heart Disease 
 
 ### Limitations & Next Steps:
 The Limitations of my dataset is that the data was gathered from patients in Hungary.The Data tended to have a higher amount of males compared to frmales  We can use data from other countries just in case there is a higher or lower occurence of Heart Disease in Hungary compared to other countries. 
