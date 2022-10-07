@@ -28,8 +28,12 @@ The Target will be the column Heart Disease since that column has a 0 for negati
 
 ### Results:
 
+The Machine Learning Model was able to predict the occurrence of  Heart Disease in the patients this model was accurate and helped prevent False Negative predictions. 
 
-<img width="723" alt="Screen Shot 2022-09-23 at 8 50 24 AM" src="https://user-images.githubusercontent.com/4527669/192002277-f2014a18-2e8f-48ca-a003-4b701e26a146.png">
+A False Negative would have a detrimental effect on a patient’s health outcomes, because Heart Disease would remain unnoticed and the patient would not be treated for the condition 
+![image](https://user-images.githubusercontent.com/4527669/194611956-f5af1a2e-a63d-4d01-9ffa-36c4c3fe079c.png)
+
+
 
 
 
@@ -47,11 +51,14 @@ For the base Logistic Regression model there was a higher reduction in Type 2 Er
 The Dataset showed a higher occurence of Heart Disease in women in specfic age ranges. In the Lineplot below we can see that women in their 40s were morelikely to have heart disease than their male counterparts. In the Age Range of 70 Women had a higher occurence of Heart Disease in comparsion to their male counterparts. This is unexpected because Heart Disease traditionally occurs in males at a higher rate in comparsion to females. 
 ![download-1](https://user-images.githubusercontent.com/4527669/193187071-14996417-0d1d-48d3-8027-da4f7d9a9931.png)
 
+
+
 ### Recommendations:
 My Recommendation is that we use the Base Logistic Regreession model to diagnose Heart Disease 
 
 ### Limitations & Next Steps:
-The Limitations of my dataset is that the data was gathered from patients in Hungary. We can use data from other countries just in case there is a higher or lower occurence of Heart Disease in Hungary compared to other countries. 
+The Limitations of my dataset is that the data was gathered from patients in Hungary.The Data tended to have a higher amount of males compared to frmales  We can use data from other countries just in case there is a higher or lower occurence of Heart Disease in Hungary compared to other countries. 
+![download](https://user-images.githubusercontent.com/4527669/194612291-f75e92fd-d955-49b8-b057-edf46b29a098.png)
 
 For further information
 For any additional questions, please contact me by email @ abdelhameadibrahim@gmail.com 
